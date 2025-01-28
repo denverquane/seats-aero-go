@@ -1,3 +1,3 @@
-module denverquane/seats-aero-go
+module github.com/denverquane/seats-aero-go
 
 go 1.23.5
